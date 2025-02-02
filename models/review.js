@@ -15,4 +15,4 @@ const review = sequelize.define('Review', {
 user.belongsToMany(book, { through: review });
 book.belongsToMany(user, { through: review });
 
-export default review;
+export default review;  
