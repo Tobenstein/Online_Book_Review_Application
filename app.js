@@ -17,7 +17,7 @@ import notFoundHandler from "./middleware/not-found.js";
 dotenv.config();
 
 
-const app = Express();
+const app = Express(); 
 app.use(cors());
 // middleware
 app.use(Express.json());
