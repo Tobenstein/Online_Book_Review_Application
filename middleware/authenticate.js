@@ -22,4 +22,4 @@ function authenticate(req, res, next) {
     }
 }
 
-export default authenticate;
+export default authenticate;   
