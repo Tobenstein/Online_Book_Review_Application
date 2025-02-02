@@ -62,4 +62,4 @@ For detailed API documentation and examples of how to use the endpoints, please 
 - **Node.js**: JavaScript runtime environment.
 - **Express.js**: Web application framework for Node.js.
 - **MySQL**: Relational database management system.
-- **Sequelize.js**: Promise-based Node.js ORM for MySQL.
+- **Sequelize.js**: Promise-based Node.js ORM for MySQL. 
